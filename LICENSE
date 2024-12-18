@@ -1,24 +1,31 @@
-This is free and unencumbered software released into the public domain.
+Restricted Use License
+This software and associated documentation files (the "Software") are licensed under the following terms and conditions:
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+1. Permission and Restrictions
+1.1 Permitted Use
+You are granted a non-exclusive, non-transferable, revocable license to:
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Use the Software for personal or internal business purposes only.
+Review, inspect, and test the Software for evaluation purposes.
+1.2 Prohibited Use
+You are expressly prohibited from:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+Redistributing, sublicensing, or selling the Software or any modified version thereof.
+Using the Software for commercial purposes, unless explicitly permitted by the Licensor in writing.
+Reverse engineering, decompiling, or disassembling the Software, except where applicable law allows such actions.
+Removing or altering any copyright, trademark, or other proprietary notices contained in the Software.
+2. Ownership and Intellectual Property
+2.1 The Licensor retains all rights, title, and interest in and to the Software, including any modifications or derivatives made by the Licensee.
+2.2 This license does not grant you any ownership rights or interests in the Software.
 
-For more information, please refer to <https://unlicense.org>
+3. Warranty Disclaimer and Liability Limitation
+3.1 The Software is provided "AS IS," without warranty of any kind, express or implied.
+3.2 In no event shall the Licensor be liable for any damages, including but not limited to direct, indirect, incidental, or consequential damages arising from the use or inability to use the Software.
+
+4. Termination
+4.1 This license is effective until terminated.
+4.2 The Licensor may terminate this license at any time if you fail to comply with the terms of this agreement.
+4.3 Upon termination, you must destroy all copies of the Software in your possession.
+
+5. Governing Law
+This agreement shall be governed by the laws of México, without regard to its conflict of law provisions.
